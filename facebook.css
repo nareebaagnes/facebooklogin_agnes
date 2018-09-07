@@ -1,0 +1,55 @@
+.gender{
+    margin-bottom: 10px;
+}
+.create{
+    font-size: 30px;
+
+}
+
+.signup{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+padding-left: 40px;
+    
+}
+.first{
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 5px;
+}
+.surname{
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 5px;
+
+}
+.mobile{
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 5px;
+  
+}
+.password{
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 5px;
+
+}
+.birthday{
+    margin-top: 10px;
+}
+.date{
+    height: 20px;
+}
+.why{
+    margin-left: 120px;
+    margin-bottom: 50px;
+}
+.gender{
+border-collapse: collapse; 
+}
+.body{
+    margin-left: 10px;
+}
